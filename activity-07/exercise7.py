@@ -7,4 +7,3 @@ file_network = open(os.path.join(file_dir, "networks.txt"))
 signal = file_signal.readlines()
 network = file_network.readlines()
 
-print(network)
